@@ -82,5 +82,6 @@
 
 <p align="center">
   <a href="https://oil333.github.io/thai-mods/report.html"><b>📮 ติดต่อ / แจ้งปัญหา</b></a> &nbsp;·&nbsp;
-  <a href="https://oil333.github.io/thai-mods/donate.html"><b>🍵 เลี้ยงชาเขียว</b></a>
+  <a href="https://oil333.github.io/thai-mods/donate.html"><b>🍵 เลี้ยงชาเขียว</b></a> &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/TripleT.Translate/"><b>📘 เพจ Facebook</b></a>
 </p>
