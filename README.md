@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://oil333.github.io/thai-mods/#train45"><img src="https://oil333.github.io/thai-mods/assets/cover-train45.jpg" alt="Train45" width="100%"></a><br>
+      <a href="https://oil333.github.io/thai-mods/adult.html#train45"><img src="https://oil333.github.io/thai-mods/assets/cover-train45.jpg" alt="Train45" width="100%"></a><br>
       <b>🚃 Train45</b> <sup>18+</sup><br>
       ✅ พร้อมเล่น · v1.0.2<br>
-      <a href="https://oil333.github.io/thai-mods/#train45">ดาวน์โหลด + วิธีติดตั้ง →</a>
+      <a href="https://oil333.github.io/thai-mods/adult.html#train45">ดาวน์โหลด + วิธีติดตั้ง →</a>
     </td>
     <td width="33%" valign="top">
       <a href="https://oil333.github.io/thai-mods/#yohanuma"><img src="https://oil333.github.io/thai-mods/assets/cover-yohanuma.jpg" alt="Yohane the Parhelion - NUMAZU in the MIRAGE -" width="100%"></a><br>
