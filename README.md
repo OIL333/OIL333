@@ -16,7 +16,7 @@
     <td width="96" align="center"><a href="https://oil333.github.io/thai-mods/"><img src="https://oil333.github.io/thai-mods/assets/logo-256.png" width="72" alt="TripleT Translate"></a></td>
     <td>
       <b><a href="https://oil333.github.io/thai-mods/">TripleT Translate</a></b> · ม็อดแปลเกมเป็นภาษาไทย<br>
-      แปลครบทั้งเกม ติดตั้งไม่กี่ขั้นตอน ตอนนี้มี <b>Train45</b> กับ <b>Yohane the Parhelion</b><br>
+      แปลครบทั้งเกม ติดตั้งไม่กี่ขั้นตอน โลโก้เกมก็เป็นภาษาไทย ตอนนี้มี 3 เกม: <b>Train45</b>, <b>Yohane the Parhelion</b> และ <b>Love Live! Nijigasaki TOKIMEKI Roadmap to the Future</b><br>
       <sub>Godot (GDScript) · Unity + BepInEx (C#) · Python · แปลด้วย AI</sub><br>
       <a href="https://oil333.github.io/thai-mods/">🌐 เว็บไซต์ + ดาวน์โหลด</a> &nbsp;·&nbsp; <a href="https://github.com/OIL333/thai-mods">📦 repo</a>
     </td>
@@ -63,15 +63,23 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://oil333.github.io/thai-mods/#train45"><img src="https://oil333.github.io/thai-mods/assets/cover-train45.jpg" alt="Train45" width="100%"></a><br>
-      <b>🚃 Train45</b> <sup>18+</sup> · ✅ พร้อมเล่น<br>
+      <b>🚃 Train45</b> <sup>18+</sup><br>
+      ✅ พร้อมเล่น · v1.0.2<br>
       <a href="https://oil333.github.io/thai-mods/#train45">ดาวน์โหลด + วิธีติดตั้ง →</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://oil333.github.io/thai-mods/#yohanuma"><img src="https://oil333.github.io/thai-mods/assets/cover-yohanuma.jpg" alt="Yohane the Parhelion - NUMAZU in the MIRAGE -" width="100%"></a><br>
-      <b>🌊 Yohane the Parhelion</b> · 🧪 เวอร์ชันทดลอง<br>
+      <b>🌊 Yohane the Parhelion</b><br>
+      🧪 เวอร์ชันทดลอง · v1.0.3-beta<br>
       <a href="https://oil333.github.io/thai-mods/#yohanuma">ดาวน์โหลด + วิธีติดตั้ง →</a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://oil333.github.io/thai-mods/#nijichizu"><img src="https://oil333.github.io/thai-mods/assets/cover-nijichizu.jpg" alt="Love Live! Nijigasaki High School Idol Club TOKIMEKI Roadmap to the Future" width="100%"></a><br>
+      <b>🌈 Nijigasaki TOKIMEKI Roadmap</b> <sup>ใหม่</sup><br>
+      🧪 เวอร์ชันทดลอง · v1.0.1-beta<br>
+      <a href="https://oil333.github.io/thai-mods/#nijichizu">ดาวน์โหลด + วิธีติดตั้ง →</a>
     </td>
   </tr>
 </table>
